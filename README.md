@@ -22,7 +22,7 @@ pkg update -y
 pkg install wget -y
 
 # Download the script on your home (~)
-wget ... ~
+wget https://raw.githubusercontent.com/davideca27/termux-gui-installer/master/setup-gui.sh ~
 
 # Run the script
 bash setup-gui.sh
