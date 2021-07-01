@@ -51,4 +51,4 @@ Resp:
 ```
 For now you can choose XFCE and LXQt (i'm still trying to make the MATE work lmao). <br><br>
 After a lot of time, it will ask if you want install recommended packages (terminal emulator and a web browser), as the name says, it's recommended to install. <br><br>
-And finally, if everything went well, the installation was finished. To open the GUI you could use the script "initgui.sh" that was generated in your $HOME, or manually configure the Desktop inside your VNC Client. I hope you enjoy!!
+And finally, if everything went well, the installation will be finished. To open the GUI you could use the script "initgui.sh" that was generated in your $HOME, or manually configure the Desktop inside your VNC Client. I hope you enjoy!!
