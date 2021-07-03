@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/davideca27/termux-gui-installer/master/se
 bash setup-gui.sh
 
 # To open the client (from Termux)
-~/initgui.sh
+~/startgui
 ```
 
 In part of the installation you will see something like:
