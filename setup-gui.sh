@@ -105,5 +105,5 @@ fi
 echo -e "${green}FINISHED INSTALLATION $reset"
 echo
 echo -e "Run ${green}~/startgui${reset} to open the GUI\nOr go to your VNC Client and set the address: 127.0.0.1:5901"
-echo "termux-open vnc://127.0.0.1:5901" > ~/initgui.sh
-chmod +x ~/initgui.sh
+echo "termux-open vnc://127.0.0.1:5901" > ~/startgui
+chmod +x ~/startgui
